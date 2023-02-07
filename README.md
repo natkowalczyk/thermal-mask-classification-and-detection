@@ -15,7 +15,7 @@ The proposed solution based on semi-supervised CNN with Convolutional Autoencode
 
 **Requirements**
 
-For installing the rest of the required packages, run the following command:
+For installing therequired packages, run the following command:
 
 ```
 pip install -r requirements.txt
