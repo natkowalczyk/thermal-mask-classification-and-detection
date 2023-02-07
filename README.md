@@ -21,6 +21,8 @@ For installing therequired packages, run the following command:
 pip install -r requirements.txt
 ```
 
+**Classify image**
+
 To run mask classification you should use:
 ```bash
 >> python mask_classification.py --img_path <path to image>
