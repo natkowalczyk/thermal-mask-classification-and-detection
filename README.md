@@ -12,4 +12,8 @@ This repository allows to test mask detection and classification models on therm
 The proposed solution based on semi-supervised CNN with Convolutional Autoencoder (CAE) was provided in the [classification folder](). To test the model you can used thermal images of three types of mask given in [images folder](https://github.com/natkowalczyk/thermal-mask-classification-and-detection/tree/main/images).
 
 
+```bash
+>> python mask_classification.py --img_path <path to image>
+```
+
 ## Paper citation
