@@ -16,4 +16,7 @@ To run mask classification you should use:
 >> python mask_classification.py --img_path <path to image>
 ```
 
+For example:
+`python mask_classification.py --img_path ../images/cloth.jpg`
+
 ## Paper citation
