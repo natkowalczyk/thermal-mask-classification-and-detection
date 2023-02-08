@@ -49,4 +49,6 @@ For example:
 
 
 ## Paper citation
-coming soon..
+N. Kowalczyk, and J. Rumiński
+
+Kowalczyk, N., and Rumiński J. "Mask detection and classification in thermal face images." - in review
