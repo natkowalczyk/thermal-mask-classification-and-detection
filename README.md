@@ -50,4 +50,4 @@ For example:
 
 ## Paper citation
 
-Kowalczyk, N., and Rumiński J. "Mask detection and classification in thermal face images." - in review
+N. Kowalczyk, M. Sobotka and J. Rumiński, "Mask Detection and Classification in Thermal Face Images," in IEEE Access, vol. 11, pp. 43349-43359, 2023, doi: 10.1109/ACCESS.2023.3272214
